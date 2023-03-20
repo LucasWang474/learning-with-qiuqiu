@@ -1,1 +1,1 @@
-# learning-with-qiuqiu
+# Learning with [Qiuqiu](https://github.com/FionaQiu777)
